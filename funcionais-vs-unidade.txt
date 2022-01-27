@@ -1,0 +1,3 @@
+1) Testes de unidade sempre testam uma funcionalidade pequena e isolada do código, enquanto que testes funcionais testam uma funcionalidade ou serviço completo, bem mais abrangente e de maior granularidade do SUT.
+
+2) Devido à característica de ter um escopo mais abrangente, assim como descrito acima, os testes funcionais nem sempre são rápidos, enquanto que, idealmente, Testes de Unidade devem ser executados rapidamente, em questões de milisegundos (Propriedade "Fast" dos princípios FIRST).
