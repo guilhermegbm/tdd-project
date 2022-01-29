@@ -1,0 +1,11 @@
+Primeiramente, devemos escrever um teste funcional.
+Rode esse teste funcional.
+	Se o teste funcional passar, verifique se o código precisa ser refatorado. 
+		Se não precisar ser refatorado, reinicie o ciclo e escreva novos testes funcionais. 
+		Se ele precisar de refatorações, siga os passos abaixo, como se o teste funcional não tivesse passado.
+
+	Se o teste funcional não passar, escreva um teste de unidade e rode-o
+		Se o teste de unidade passar, verifique se o código precisa ser refatorado. 
+			Se não precisar ser refatorado, saia desse "mini-ciclo" e rode novamente o teste funcional. 
+			Se ele precisar de refatorações, refatore o código e volte a rodar esse teste de unidade novamente.
+		Se o teste de unidade não passar, escreva um código mínimo e volte a rodar esse teste de unidade novamente.
